@@ -106,16 +106,34 @@ const aIMG = [
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://www.blitzortung.org/en/Images/image_b_tx.png",
   ],
   [
     "AVG FUEL COST",
     "https://charts.gasbuddy.com/ch.gaschart?Country=USA&Crude=f&Period=1&Areas=USA%20Average%2CHouston%2CDallas&Unit=US%20%24%2FG",
   ],
-  ["HF PROPAGATION",
-  "https://www.hamqsl.com/solar101vhf.php",
-  "https://www.hamqsl.com/solar100sc.php",
-  "https://www.hamqsl.com/solarpich.php"],
+  [
+    "CLIMATE",
+    "https://www.weather.gov/images/hgx/climate/KIAH2024plot.png",
+    "https://www.weather.gov/images/hgx/climate/KIAH202408plot.png",
+  ],
+  [
+    "US 290 NW",
+    "https://www.houstontranstar.org/snapshots/cctv/422.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/425.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/430.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/4480.jpg",
+    "https://traffic.houstontranstar.org/cctv_construction/txdot/US-290_at_FM-1155_in_Chappell_Hill_live_image.jpg",
+    "https://traffic.houstontranstar.org/cctv_construction/txdot/US-290_at_SH-36_Cloverleaf_in_Brenham_live_image.jpg",
+    "https://traffic.houstontranstar.org/cctv_construction/txdot/US-290_at_US-77_in_Giddings_live_image.jpg",
+  ],
+  [
+    "I-45 S",
+    "https://www.houstontranstar.org/snapshots/cctv/4480.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/102.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/214.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/228.jpg",
+  ],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
