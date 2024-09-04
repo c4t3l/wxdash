@@ -46,15 +46,8 @@ const aURL = [
   ],
   [
     "2196F3",
-    "LIGHTNING",
-    "https://map.blitzortung.org/#3.87/36.5/-89.41",
-    "1",
-    "R",
-  ],
-  [
-    "2196F3",
     "RADAR",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
+    "https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTk1LjM3LDI5Ljc2MV0sImxvY2F0aW9uIjpbLTk1LjM3LDI5Ljc2MV0sInpvb20iOjcsImxheWVyIjoiYnJlZl9xY2QifSwiYW5pbWF0aW5nIjp0cnVlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOmZhbHNlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D",
     "1",
     "R"
   ],
@@ -62,7 +55,7 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=44.0157&lon=-79.4591&zoom=5",
+    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=29.7633&lon=-95.3633&zoom=12",
     "1",
     "R",
   ],
@@ -133,6 +126,13 @@ const aIMG = [
     "https://www.houstontranstar.org/snapshots/cctv/102.jpg",
     "https://www.houstontranstar.org/snapshots/cctv/214.jpg",
     "https://www.houstontranstar.org/snapshots/cctv/228.jpg",
+  ],
+  [
+    "SH-99 N",
+    "https://www.houstontranstar.org/snapshots/cctv/2318.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/2319.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/2321.jpg",
+    "https://www.houstontranstar.org/snapshots/cctv/2323.jpg",
   ],
 ];
 
