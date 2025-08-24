@@ -86,7 +86,7 @@ const aIMG = [
   ],
   [
     "LOCAL SATELLITE",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GM/GEOCOLOR/GOES16-GM-GEOCOLOR-1000x1000.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/GA/GEOCOLOR/GOES16-GA-GEOCOLOR-1000x1000.gif",
   ],
   [
     "TROPICAL OUTLOOK",
